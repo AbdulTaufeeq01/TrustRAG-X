@@ -1,0 +1,23 @@
+{
+  "dashboard": {
+    "title": "TrustRAG-X Monitoring",
+    "panels": [
+      {
+        "title": "System Health",
+        "type": "graph"
+      },
+      {
+        "title": "Model Performance",
+        "type": "stat"
+      },
+      {
+        "title": "Data Drift Detection",
+        "type": "gauge"
+      },
+      {
+        "title": "API Latency",
+        "type": "graph"
+      }
+    ]
+  }
+}
